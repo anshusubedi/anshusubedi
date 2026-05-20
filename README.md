@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Anshu! 👋
 
-<!--
-**anshusubedi/anshusubedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & Business Analyst** bridging the gap between raw data infrastructure and executive intelligence. I focus on building automated data pipelines and translating complex datasets into actionable business strategies.
 
-Here are some ideas to get you started:
+### 🛠 Technical Toolkit
+* **Languages & Automation:** Python (Pandas, NumPy, Scrapy, BeautifulSoup)
+* **Business Intelligence:** Microsoft Power BI, Tableau
+* **Data Engineering:** Automated Pipelines, Data Cleaning, ETL Frameworks
+* **Financial Modeling:** Time-Series Analysis, Market Performance Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+(GitHub will automatically show your "Pinned" repositories here. Make sure to pin your three main projects: `findata-migrator`, `financial-data-analytics-pipeline`, and `python-foundations-library`.)
+
+---
+*Open to collaborating on data-driven projects and analytics engineering roles. Feel free to connect!*
+
+
